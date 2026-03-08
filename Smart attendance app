@@ -1,0 +1,30 @@
+SMART CURRICULUM ACTIVITY AND ATTENDANCE APP
+The Smart Curriculum Activity and Attendance App is a digital solution designed to simplify and automate the management of student attendance and academic activities. 
+This application helps teachers efficiently record attendance, track curriculum progress, and monitor student participation in various academic and extracurricular activities.
+
+Simple core features
+Student login
+Teacher login
+Mark attendance
+View attendance report
+Add curriculum activities
+
+Common tools:
+Frontend: HTML, CSS, JavaScript (or Android Studio for mobile)
+Backend: Java / PHP / Node.js
+Database: MySQL / Firebase
+
+Basic Modules of the App
+📌 Admin Module
+Add teachers
+Add students
+Manage subjects
+View attendance reports
+📌 Teacher Module
+Mark student attendance
+Add curriculum activities
+View student attendance
+📌 Student Module
+View attendance
+View activity updates
+Notifications
